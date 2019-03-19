@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+![](./assets/img/icon.jpg){:height="300px" width="300px"}
+
+## **Name:** Shun Tabta
+## **Birthday:** 1986/Oct/03
+
+ソフトウェアエンジニア。
+ウェブサイト作ったりアプリを作ったりするよ。
+
+* [Resume](./resume/)
+* [Portfolio](./portfolio/)
