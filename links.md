@@ -23,11 +23,14 @@ date: 2019-03-20 17:43:47 +0900
 ## 個人的に開発、保守・運用しているもの
 * TechnoBreak Official Website: [https://technobreak.band/](https://technobreak.band/)
     * 自身のバンドのウェブサイト
+    * WordPressで構築。EC2インスタンスと前段にCloudFrontを置いている。
 * ボイドラサーチ: [https://gokkoradio.jp/search/](https://gokkoradio.jp/search/)
     * バックエンドの保守・運用
+    * Wanoに勤め始めた頃に学習したことを実践したかったため、言語はPerlで、WAFはAmon2で構築。
 * はなみつ: [https://s3-ap-northeast-1.amazonaws.com/flower-nector/index.html](https://s3-ap-northeast-1.amazonaws.com/flower-nector/index.html)
     * 2018年Wano開発合宿成果物
-    * 蜜が吸える花の判定アプリ
+    * 蜜が吸える花の判定PWAアプリ
+    * JavasScriptのみで実装
     * スマホのみ
 * ImageRanger: [https://s3-ap-northeast-1.amazonaws.com/oreore-playground/ImageRanger/index.html](https://s3-ap-northeast-1.amazonaws.com/oreore-playground/ImageRanger/index.html)
     * [BeerRanger](https://www.instagram.com/beerranger007/)専用画像加工アプリ
