@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+.site-title {
+  font-weight: bold;
+  color: #444;
+}
+
+body {
+  color: #555;
+}
+
+#resume, #portfolio, #links {
+  margin-bottom: 0;
+}
