@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="jekyll serve" type="BashConfigurationType" factoryName="Bash">
+    <module name="bbq-all-stars.github.io" />
+    <option name="INTERPRETER_OPTIONS" value="exec jekyll serve" />
+    <option name="INTERPRETER_PATH" value="/usr/local/bin/bundle" />
+    <option name="PROJECT_INTERPRETER" value="false" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="PARENT_ENVS" value="true" />
+    <option name="SCRIPT_NAME" value="bundle" />
+    <option name="PARAMETERS" value="" />
+    <method v="2" />
+  </configuration>
+</component>
