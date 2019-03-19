@@ -8,10 +8,10 @@ layout: home
 ![](./assets/img/icon.jpg){:height="300px" width="300px"}
 
 ## **Name:** Shun Tabta
-## **Birthday:** 1986/Oct/03
+## **Birthday:** 1986/Oct./03
 
-ソフトウェアエンジニア。
+ソフトウェアエンジニア&バンドマン。
 ウェブサイト作ったりアプリを作ったりするよ。
 
-* [Resume](./resume/)
-* [Portfolio](./portfolio/)
+### [Resume](./resume/)
+### [Links](./links/)
