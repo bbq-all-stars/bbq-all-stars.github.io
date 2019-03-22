@@ -13,5 +13,5 @@ layout: home
 ソフトウェアエンジニア&バンドマン。
 ウェブサイト作ったりアプリを作ったりするよ。
 
-### [Resume](./resume/)
-### [Links](./links/)
+### [Resume](/resume/)
+### [Links](/links/)
