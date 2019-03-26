@@ -34,7 +34,7 @@ plugins:
   - jekyll-last-modified-at
 
 minima:
-  date_format: "%Y %b %-d"
+  date_format: "%Y/%b./%-d"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
