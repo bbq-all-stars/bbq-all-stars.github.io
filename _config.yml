@@ -22,6 +22,9 @@ url: "https://bbq-all-stars.github.io" # the base hostname & protocol for your s
 twitter_username: bbq_all_stars
 github_username:  bbq-all-stars
 author: Shun Tabata
+header_pages:
+  - resume.md
+  - links.md
 
 # Build settings
 markdown: kramdown
