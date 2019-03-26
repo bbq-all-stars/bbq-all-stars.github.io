@@ -31,7 +31,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
+# NOTE: not whitelisted in github pages: https://github.com/github/pages-gem/pull/119
+#  - jekyll-last-modified-at
 
 minima:
   date_format: "%Y/%b./%-d"
