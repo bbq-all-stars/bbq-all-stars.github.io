@@ -25,6 +25,7 @@ author: Shun Tabata
 header_pages:
   - resume.md
   - links.md
+google_analytics: UA-139425259-1
 
 # Build settings
 markdown: kramdown
