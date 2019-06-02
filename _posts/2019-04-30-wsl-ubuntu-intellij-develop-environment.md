@@ -177,8 +177,11 @@ export GTK_IM_MODULE=uim
 export QT_IM_MODULE=uim
 export DISPLAY=:0.0
 uim-xim &
-dbus-launch "/home/shun/Programs/idea-IU-191.6707.61/bin/idea.sh"
+dbus-launch "/home/shun/Programs/idea-IU-191.6707.61/bin/idea.sh" &> /dev/null
 ```
+
+2019/06/02追記  
+xlaunchがdbus-launchのwarningを頻繁に表示してくるようになってウザかったので、dbus-launchのエラー共々/dev/nullに投げるように修正。
 
 `uim-xim &`これでuim付きで起動しつつ、dbus-launchコマンドでintellijのシェルスクリプトを指定している。
 
