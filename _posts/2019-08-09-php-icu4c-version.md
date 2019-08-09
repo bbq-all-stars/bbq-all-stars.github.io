@@ -1,6 +1,6 @@
 ---
 layout: post
-title: phpenvでPHPのバージョンを切り替えたら、brewのicu4uのバージョン違いで怒られた話。
+title: phpenvでPHPのバージョンを切り替えたら、brewのicu4cのバージョン違いで怒られた話。
 date: 2019-08-09 19:21:00 +0900
 ---
 
