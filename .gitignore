@@ -142,10 +142,11 @@ $RECYCLE.BIN/
 *.lnk
 
 
-### https://raw.github.com/github/gitignore/5f15ed83c7a3d5db29845edae5205ca2d795c3d8/Jekyll.gitignore
+### https://raw.github.com/github/gitignore/ea2aa40cb4620e334a87e8494e03d0e7d1ec11df/Jekyll.gitignore
 
 _site/
 .sass-cache/
+.jekyll-cache/
 .jekyll-metadata
 
 
